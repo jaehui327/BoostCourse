@@ -43,15 +43,15 @@
 
 ### 2. 회원가입 화면 구현
 
-- [ ] 0.Hello!
-- [ ] 1. Human Interface Guidelines
-- [ ] 2. 화면의 전환
-- [ ] 3. 뷰의 상태변화 감지
-- [ ] 4. Delegation
-- [ ] 5. Singleton
-- [ ] 6. Target-Action
-- [ ] 7. Gesture Recognizer
-- [ ] 8. Summary
+- [x] 0.Hello!
+- [x] 1. Human Interface Guidelines
+- [x] 2. 화면의 전환
+- [x] 3. 뷰의 상태변화 감지
+- [x] 4. Delegation
+- [x] 5. Singleton
+- [x] 6. Target-Action
+- [x] 7. Gesture Recognizer
+- [x] 8. Summary
 
 ### 3. 기상정보 애플리케이션
 
